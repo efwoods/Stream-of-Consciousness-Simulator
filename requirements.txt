@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+prometheus_client
+numpy
+torch
+pydantic_settings
